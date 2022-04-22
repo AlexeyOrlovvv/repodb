@@ -1,0 +1,11 @@
+{
+  "casinos": [
+    {
+      "id": 1,
+      "title": "Stake"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
